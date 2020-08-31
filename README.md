@@ -1,4 +1,4 @@
-# Exploratory-Data-Visualization-Visualizing-Earnings-Based-on-College-Majors
+# Exploratory-Data-Visualization-Visualizing-Earnings-Based-on-College-Majors by Adam M. Lang
 This is an Exploratory Data Analysis using Matplotlib and Plotting with Pandas. It uses a dataset a dataset of on the job outcomes of students who graduated from college between 2010 and 2012. The original data on job outcomes was released by American Community Survey, which conducts surveys and aggregates the data. FiveThirtyEight cleaned the dataset and released it on their Github repo. I scraped the dataset from the github repo and performed an analysis. 
 Interesting findings included:
 - It appears the top 5 majors that make the most money are:
